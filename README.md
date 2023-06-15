@@ -5,6 +5,7 @@ Binding of [pathfinding](https://github.com/samueltardieu/pathfinding) for Pytho
 ## Installation
 
 ```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 pip install .
 ```
 
